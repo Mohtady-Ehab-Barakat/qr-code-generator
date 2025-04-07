@@ -1,0 +1,10 @@
+**/transparent_qr.png/
+transparent_qr.png
+**/venv/
+venv/
+**/__pycache__/
+__pycache__/
+**/*.pyc
+*.pyc
+**/*.pyo
+*.pyo
